@@ -1,2 +1,3 @@
 # assets
-Artworks for the NixOS CN organization.
+
+Artworks for the @NixOS-Pilots organization.
